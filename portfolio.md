@@ -8,6 +8,9 @@ Major: Computer Science
 - Programming: C++, JavaScript
 - Git: Advanced
 - Database: SQL
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
 
 ## Projects
 - Project 1: TBD
