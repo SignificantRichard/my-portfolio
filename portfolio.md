@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## About Me
-Name: [Your Name]
+Name: Wen Xin Gao
 Major: Computer Science
 
 ## Skills
